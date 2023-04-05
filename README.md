@@ -1,6 +1,6 @@
 Pour ouvrier et lire ce fichier (.pbix), vous devez avoir l'application Microsoft Power BI Desktop sur votre PC .
 
-# BI
+# Power BI
 An Analysis Power BI Project. 
 
 Description :
