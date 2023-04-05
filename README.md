@@ -15,3 +15,4 @@ Cependant lorsqu’il contacte les directeurs ces agences, il ne reçoit pas d�
 Donc pour palier à ce problème, car il commence à s’apercevoir que les chiffres chutent mois après mois, il veut engager des ingénieurs de la data. 
 Ces derniers vont lui permettre de visualiser mensuellement les chiffres qu’il aura produit afin qu’il puisse savoir s’il y a quelque chose à changer dans la façon dont son business se déroule.
 
+123
