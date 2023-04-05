@@ -1,4 +1,4 @@
-Pour ouvrier et lire ce fichier (.pbix), vous devez avoir l'application Microsoft Power BI sur votre PC .
+Pour ouvrier et lire ce fichier (.pbix), vous devez avoir l'application Microsoft Power BI Desktop sur votre PC .
 
 # End-To-End-BI
 An Analysis Power BI Project. 
